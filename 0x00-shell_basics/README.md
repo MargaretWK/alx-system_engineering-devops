@@ -3,3 +3,5 @@
 `1-listit` prints the contents of the current directory
 
 `2-bring_me_home` change working directory to home directory
+
+`3-listfiles` display current directory in a long format
