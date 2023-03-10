@@ -33,3 +33,5 @@
 `101-clean_emacs` deletes all files in the current working directory that end with the character ~
 
 `102-tree` creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+`103-commas` lists all the files and subdirectories of the current directory: all files (hidden too), separated by commas, sort by digits and letters, directory names ending with a slash
