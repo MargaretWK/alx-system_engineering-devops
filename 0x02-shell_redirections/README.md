@@ -19,3 +19,5 @@
 `9-duplicate_last_line` duplicates the last line of the file iacta
 
 `10-no_more_js` delete all the regular files with a .js extension present in the current directory and all its subfolders
+
+`11-directories` counts the number of directories and sub-directories in the current directory; current and parent directories should not be taken into account and hiddeb directories should be counted
