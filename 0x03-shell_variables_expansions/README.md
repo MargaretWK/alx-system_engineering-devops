@@ -11,3 +11,5 @@
 ` 5-local_variables` lists all local variables,environment variables and functions
 
 `6-create_local_variable` creates a new variable; variable name :BEST and value school
+
+`7-create_global_variable` creates a new global variable;variable name :BEST and value school
