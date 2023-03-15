@@ -12,7 +12,7 @@
 
 `6-third_line` displays the third line of the file iacta, which is in the working directory
 
-`7-file` creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new lin
+`7-file` creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line (**wrong code**)
 
 `8-cwd_state` writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten and if the file ls_cwd_content does not exist,its created by the same comman
 
@@ -27,3 +27,5 @@
 `13-unique` takes a list of words as input and prints only words that appear exactly once,words should be sorted
 
 `14-findthatword` display lines containing the pattern "root" from the file /etc/passwd
+
+`15-countthatword` display the number of lines that contain the pattern bin in the file /etc/passwd
