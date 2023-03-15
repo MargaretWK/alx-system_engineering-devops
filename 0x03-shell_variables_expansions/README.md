@@ -4,7 +4,7 @@
 
 `2-path` add /action to the path, where /action should be the last directory theshell looks into when looking for a program
 
-` 3-paths` counts the number of directories in the path
+` 3-paths` counts the number of directories in the path (wrong code)
 
 `4-global_variables` lists environment variables
 
@@ -13,3 +13,5 @@
 `6-create_local_variable` creates a new variable; variable name :BEST and value school
 
 `7-create_global_variable` creates a new global variable;variable name :BEST and value school
+
+`8-true_knowledge` prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
