@@ -5,3 +5,5 @@
 `2-path` add /action to the path, where /action should be the last directory theshell looks into when looking for a program
 
 ` 3-paths` counts the number of directories in the path
+
+`4-global_variables` lists environment variables
