@@ -42,4 +42,4 @@
 
 `21-reverse` reverse its input
 
-`22-users_and_homes` displays all users and their home directories, sorted by users
+`22-users_and_homes` displays all users and their home directories, sorted by users (**wrong code**)
