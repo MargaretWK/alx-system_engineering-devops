@@ -25,3 +25,5 @@
 `12-combinations` prints all possible combinations of two letters expcet oo; lowercase letters used from a to z; with one combination per line: the output contains alpha order starting with aa and doesnt print oo
 
 `13-print_float` prints a number with two decimal placed, followed by a new line and the number is stored in the environment variable NUM
+
+`100-decimal_to_hexadecimal` converts a number from base 10 to base 16, number in base 10 is stored in the environment variable known as DECIMAL and should display the number in base 16 followed by a new line
