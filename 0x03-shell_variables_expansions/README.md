@@ -20,4 +20,8 @@
 
 `10-love_exponent_breath` displays the result of BREATH to the power LOVE
 
+`11-binary_to_decimal` 
+
 `12-combinations` prints all possible combinations of two letters expcet oo; lowercase letters used from a to z; with one combination per line: the output contains alpha order starting with aa and doesnt print oo
+
+`13-print_float` prints a number with two decimal placed, followed by a new line and the number is stored in the environment variable NUM
