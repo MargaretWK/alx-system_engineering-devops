@@ -19,3 +19,5 @@
 `9-divide_and_rule` prints the result of POWER divided by DIVIDE
 
 `10-love_exponent_breath` displays the result of BREATH to the power LOVE
+
+`12-combinations` prints all possible combinations of two letters expcet oo; lowercase letters used from a to z; with one combination per line: the output contains alpha order starting with aa and doesnt print oo
